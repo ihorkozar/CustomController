@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomController</string>
+    <string name="control">Control</string>
+    <string name="off">off</string>
+    <string name="low">1</string>
+    <string name="medium">2</string>
+    <string name="high">3</string>
+</resources>
